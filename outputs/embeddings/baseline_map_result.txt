@@ -1,0 +1,7 @@
+Baseline S2 Retrieval Evaluation
+Queries: 4500
+Gallery: 4500
+Embedding dimension: 2048
+Top-K: 10
+mAP@10: 0.966140
+Evaluation time: 24.14 seconds
